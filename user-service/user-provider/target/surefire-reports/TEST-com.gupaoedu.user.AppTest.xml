@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.gupaoedu.user.AppTest" time="0.051" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="G:\my-space\user-service\user-provider\target\test-classes;G:\my-space\user-service\user-provider\target\classes;D:\fanglixia\mavenrepository\org\springframework\spring-context\4.3.12.RELEASE\spring-context-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-aop\4.3.12.RELEASE\spring-aop-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-expression\4.3.12.RELEASE\spring-expression-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-core\4.3.12.RELEASE\spring-core-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\fanglixia\mavenrepository\org\springframework\spring-beans\4.3.12.RELEASE\spring-beans-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-context-support\4.3.12.RELEASE\spring-context-support-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-jdbc\4.3.12.RELEASE\spring-jdbc-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-orm\4.3.12.RELEASE\spring-orm-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-tx\4.3.12.RELEASE\spring-tx-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\com\alibaba\dubbo\2.5.3\dubbo-2.5.3.jar;D:\fanglixia\mavenrepository\org\javassist\javassist\3.15.0-GA\javassist-3.15.0-GA.jar;D:\fanglixia\mavenrepository\org\jboss\netty\netty\3.2.5.Final\netty-3.2.5.Final.jar;D:\fanglixia\mavenrepository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\fanglixia\mavenrepository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;D:\fanglixia\mavenrepository\org\apache\zookeeper\zookeeper\3.4.8\zookeeper-3.4.8.jar;D:\fanglixia\mavenrepository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;D:\fanglixia\mavenrepository\log4j\log4j\1.2.16\log4j-1.2.16.jar;D:\fanglixia\mavenrepository\jline\jline\0.9.94\jline-0.9.94.jar;D:\fanglixia\mavenrepository\io\netty\netty\3.7.0.Final\netty-3.7.0.Final.jar;D:\fanglixia\mavenrepository\org\mybatis\mybatis\3.0.5\mybatis-3.0.5.jar;D:\fanglixia\mavenrepository\mysql\mysql-connector-java\5.1.8\mysql-connector-java-5.1.8.jar;D:\fanglixia\mavenrepository\org\mybatis\mybatis-spring\1.0.1\mybatis-spring-1.0.1.jar;D:\fanglixia\mavenrepository\com\alibaba\druid\1.1.9\druid-1.1.9.jar;D:\fanglixia\mavenrepository\com\gupaoedu\user\user-api\1.0-SNAPSHOT\user-api-1.0-SNAPSHOT.jar;D:\fanglixia\mavenrepository\junit\junit\4.11\junit-4.11.jar;D:\fanglixia\mavenrepository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="F:\kit\jdk\jdk1.8.0_92-64\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\thinkpad\AppData\Local\Temp\surefire425973560124819192\surefirebooter4334513435107581375.jar C:\Users\thinkpad\AppData\Local\Temp\surefire425973560124819192 2018-07-01T19-52-53_695-jvmRun1 surefire7907692878155656448tmp surefire_07121120585848697538tmp"/>
+    <property name="surefire.test.class.path" value="G:\my-space\user-service\user-provider\target\test-classes;G:\my-space\user-service\user-provider\target\classes;D:\fanglixia\mavenrepository\org\springframework\spring-context\4.3.12.RELEASE\spring-context-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-aop\4.3.12.RELEASE\spring-aop-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-expression\4.3.12.RELEASE\spring-expression-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-core\4.3.12.RELEASE\spring-core-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\fanglixia\mavenrepository\org\springframework\spring-beans\4.3.12.RELEASE\spring-beans-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-context-support\4.3.12.RELEASE\spring-context-support-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-jdbc\4.3.12.RELEASE\spring-jdbc-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-orm\4.3.12.RELEASE\spring-orm-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\org\springframework\spring-tx\4.3.12.RELEASE\spring-tx-4.3.12.RELEASE.jar;D:\fanglixia\mavenrepository\com\alibaba\dubbo\2.5.3\dubbo-2.5.3.jar;D:\fanglixia\mavenrepository\org\javassist\javassist\3.15.0-GA\javassist-3.15.0-GA.jar;D:\fanglixia\mavenrepository\org\jboss\netty\netty\3.2.5.Final\netty-3.2.5.Final.jar;D:\fanglixia\mavenrepository\com\101tec\zkclient\0.10\zkclient-0.10.jar;D:\fanglixia\mavenrepository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;D:\fanglixia\mavenrepository\org\apache\zookeeper\zookeeper\3.4.8\zookeeper-3.4.8.jar;D:\fanglixia\mavenrepository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;D:\fanglixia\mavenrepository\log4j\log4j\1.2.16\log4j-1.2.16.jar;D:\fanglixia\mavenrepository\jline\jline\0.9.94\jline-0.9.94.jar;D:\fanglixia\mavenrepository\io\netty\netty\3.7.0.Final\netty-3.7.0.Final.jar;D:\fanglixia\mavenrepository\org\mybatis\mybatis\3.0.5\mybatis-3.0.5.jar;D:\fanglixia\mavenrepository\mysql\mysql-connector-java\5.1.8\mysql-connector-java-5.1.8.jar;D:\fanglixia\mavenrepository\org\mybatis\mybatis-spring\1.0.1\mybatis-spring-1.0.1.jar;D:\fanglixia\mavenrepository\com\alibaba\druid\1.1.9\druid-1.1.9.jar;D:\fanglixia\mavenrepository\com\gupaoedu\user\user-api\1.0-SNAPSHOT\user-api-1.0-SNAPSHOT.jar;D:\fanglixia\mavenrepository\junit\junit\4.11\junit-4.11.jar;D:\fanglixia\mavenrepository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\thinkpad"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="F:\kit\jdk\jdk1.8.0_92-64\jre"/>
+    <property name="basedir" value="G:\my-space\user-service\user-provider"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\thinkpad\AppData\Local\Temp\surefire425973560124819192\surefirebooter4334513435107581375.jar"/>
+    <property name="sun.boot.class.path" value="F:\kit\jdk\jdk1.8.0_92-64\jre\lib\resources.jar;F:\kit\jdk\jdk1.8.0_92-64\jre\lib\rt.jar;F:\kit\jdk\jdk1.8.0_92-64\jre\lib\sunrsasign.jar;F:\kit\jdk\jdk1.8.0_92-64\jre\lib\jsse.jar;F:\kit\jdk\jdk1.8.0_92-64\jre\lib\jce.jar;F:\kit\jdk\jdk1.8.0_92-64\jre\lib\charsets.jar;F:\kit\jdk\jdk1.8.0_92-64\jre\lib\jfr.jar;F:\kit\jdk\jdk1.8.0_92-64\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_92-b14"/>
+    <property name="user.name" value="thinkpad"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="F:\kit\jdk\jdk1.8.0_92-64\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\fanglixia\mavenrepository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\thinkpad\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2017.3.1"/>
+    <property name="java.version" value="1.8.0_92"/>
+    <property name="user.dir" value="G:\my-space\user-service\user-provider"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="F:\kit\jdk\jdk1.8.0_92-64\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;G:\Program Files\MySQL\MySQL Server 5.5\bin;F:\kit\jdk\jdk1.8.0_92-64\bin;C:\Program Files\VisualSVN Server\bin;C:\Program Files\TortoiseSVN\bin;D:\fanglixia\apache-maven-3.5.0\bin;;C:\WINDOWS\System32\OpenSSH\;C:\Users\thinkpad\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.92-b14"/>
+    <property name="java.ext.dirs" value="F:\kit\jdk\jdk1.8.0_92-64\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.gupaoedu.user.AppTest" time="0.003"/>
+</testsuite>
