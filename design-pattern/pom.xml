@@ -6,9 +6,13 @@
 
   <groupId>com.shang.dp</groupId>
   <artifactId>design-pattern</artifactId>
-  <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>pattern-singleton</module>
+    </modules>
 
-  <name>design-pattern</name>
+    <name>design-pattern</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
