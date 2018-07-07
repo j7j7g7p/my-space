@@ -30,7 +30,7 @@
     JMS 是一个与具体平台无关的 API，绝大多数 MOM（Message Oriented Middleware）（面向消息中间件）
     提供商都对 JMS 提供了支持。ActiveMQ 就是其中一种实现
 ## JMS体系结构
-![avatar](/web/img/structure.png)
+![avatar](./web/img/structure.png)
 
 ### JMS消息头
     消息头(Header) - 消息头包含消息的识别信息和路由信息，
