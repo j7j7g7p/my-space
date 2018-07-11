@@ -19,3 +19,6 @@ CGLlib的动态代理是基于类的模式。CGLlib采用非常底层的字节�
 
 ## 5.spring中动态代理
 *spring中会按照类的类型决定使用哪种代理方式。*
+
+## 6.自定义Classloader,InvocationHandler
+*TODO*

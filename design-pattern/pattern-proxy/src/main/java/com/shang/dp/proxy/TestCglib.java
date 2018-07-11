@@ -8,8 +8,9 @@ public class TestCglib {
     public static void main(String[] args) throws Exception {
         UserService userService = (UserService) new CglibPerformanceManager().getInstance(UserService.class);
         System.out.println(userService.getClass());
+
+        userService = (UserService) new CglibTXManager().getInstance(userService.getClass());
         userService.doService();
 
-        //如何实现多重代理---->使用责任链模式实现多重代理
     }
 }
