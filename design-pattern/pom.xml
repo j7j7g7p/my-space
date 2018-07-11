@@ -13,6 +13,7 @@
         <module>pattern-prototype</module>
         <module>pattern-proxy</module>
         <module>pattern-strategy</module>
+        <module>pattern-template</module>
     </modules>
 
     <name>design-pattern</name>
