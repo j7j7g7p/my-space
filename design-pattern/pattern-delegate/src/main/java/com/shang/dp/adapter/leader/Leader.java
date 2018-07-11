@@ -1,4 +1,4 @@
-package com.shang.dp.delegate.leader;
+package com.shang.dp.adapter.leader;
 
 import java.util.HashMap;
 import java.util.Map;

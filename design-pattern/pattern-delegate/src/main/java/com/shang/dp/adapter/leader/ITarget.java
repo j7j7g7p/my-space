@@ -1,4 +1,4 @@
-package com.shang.dp.delegate.leader;
+package com.shang.dp.adapter.leader;
 
 /**
  * Created by Tom on 2018/3/14.

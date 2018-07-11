@@ -1,6 +1,6 @@
-package com.shang.dp.delegate.mvc;
+package com.shang.dp.adapter.mvc;
 
-import com.shang.dp.delegate.mvc.controllers.MemberAction;
+import com.shang.dp.adapter.mvc.controllers.MemberAction;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.lang.reflect.InvocationTargetException;
